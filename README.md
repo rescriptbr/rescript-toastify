@@ -13,7 +13,7 @@ import "react-toastify/dist/ReactToastify.css";
 ```
 
 ## Examples
-```ocaml
+```reason
 open ReactToastify;
 
 [@react.component]

@@ -4,7 +4,7 @@ ReasonML bindings for [`react-toastify`](https://fkhadra.github.io/react-toastif
 ## Installation
 First run the below commands to install the dependencies:
 ```bash
-yarn add bs-toastify -D
+yarn add @reasonbr/bs-toastify -D
 yarn add react-toastify
 ```
 Import react-toastify's css somewhere in your code. You can use `[%bs.raw]` if you want to.

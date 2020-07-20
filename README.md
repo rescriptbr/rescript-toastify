@@ -4,7 +4,8 @@
 </p>
 <p align="center">
    <a href="#installation">Installation</a> • 
-   <a target="_blank" href="#examples">Examples</a>
+   <a target="_blank" href="#examples">Examples</a> •
+   <a target="_blank" href="https://github.com/reasonbr/bs-toastify/blob/master/src/ReactToastify.re">Documentation</a>
 </p>
 <br/>
 <br/>

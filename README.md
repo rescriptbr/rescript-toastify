@@ -1,5 +1,13 @@
-# bs-toastify
-ReasonML bindings for [`react-toastify`](https://fkhadra.github.io/react-toastify/introduction/)
+<p align="center">
+  <br />
+  <img src="./assets/logo.svg" width="450" /> 
+</p>
+<p align="center">
+   <a href="#installation">Installation</a> • 
+   <a target="_blank" href="#examples">Examples</a>
+</p>
+<br/>
+<br/>
 
 ## Installation
 First run the below commands to install the dependencies:

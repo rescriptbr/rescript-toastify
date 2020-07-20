@@ -1,6 +1,6 @@
 {
   "name": "@reasonbr/bs-toastify",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
   "author": "Arthur barroso <arthurdsb_@hotmail.com>",

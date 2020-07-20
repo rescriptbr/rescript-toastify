@@ -1,0 +1,24 @@
+{
+  "name": "bs-toastify",
+  "version": "0.0.1",
+  "reason": {
+    "react-jsx": 3
+  },
+  "sources": [
+    {
+      "dir": "src",
+      "subdirs": true
+    }
+  ],
+  "package-specs": {
+    "module": "commonjs",
+    "in-source": true
+  },
+  "suffix": ".bs.js",
+  "bs-dependencies": ["reason-react"],
+  "bs-dev-dependencies": [],
+  "warnings": {
+    "error": "+5"
+  },
+  "refmt": 3
+}

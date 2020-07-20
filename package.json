@@ -1,0 +1,36 @@
+{
+  "name": "bs-toastify",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Arthur barroso <arthurdsb_@hotmail.com>",
+  "description": "ReasonML bindings for ReactToastify",
+  "keywords": [
+    "react",
+    "toast",
+    "toastify",
+    "reasonml",
+    "reason-bindings",
+    "react-toastify-bindings",
+    "reason-react"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reasonbr/bs-toastify"
+  },
+  "scripts": {
+    "clean": "bsb -clean-world",
+    "build": "bsb -make-world",
+    "watch": "bsb -make-world -w"
+  },
+  "devDependencies": {
+    "bs-platform": "^8.0.3",
+    "reason-react": "^0.9.1"
+  },
+  "peerDependencies": {
+    "reason-react": "0.9.1"
+  },
+  "dependencies": {
+    "react-toastify": "^6.0.8"
+  }
+}

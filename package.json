@@ -1,5 +1,5 @@
 {
-  "name": "bs-toastify",
+  "name": "@reasonbr/bs-toastify",
   "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",

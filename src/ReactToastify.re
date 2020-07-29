@@ -65,10 +65,6 @@ external options:
   options;
 [@bs.module "react-toastify"] external toast: toast = "toast";
 
-type thing =
-  | [@ocaml.unboxed] A(string)
-  | [@ocaml.unboxed] B(React.element);
-
 [@bs.send] external success: (toast, string, options) => unit = "success";
 
 [@bs.send] external info: (toast, string, options) => unit = "info";
